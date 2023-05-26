@@ -7,8 +7,6 @@ featured_image: "https://i.ibb.co/W2FG3WG/biel-morro-l8-Zdg-J9m7w-unsplash.jpg"
 title: "A Blog of One's Own"
 ---
 
-
-
 I presume that anyone who has ever had a thought has wanted someone to share it with. It seems like such a natural thing, but then you don't want everyone to know about it either. I don't want to have to think things through too much, and oftentimes I just want to speak, even if no one's listening.
 
 I am more in tune with technology than a majority of my peers, which could be the reason that I feel the necessity of having a blog – a place other than Facebook or similar social circles where I could speak my mind without worries. I tried writing stuff on Instagram for a while, a less populated place for me. I 'sort of' encrypted my writings in QR codes, as you have to post images on that platform. It's not really encryption since anyone could take the images, scan them, and find out what I've written. But then again, there's a layer of effort included in that process, which I rightly assumed wouldn't be present in most people seeing them.
@@ -25,5 +23,5 @@ If you're one of my few curious readers, a number I expect to be able to count o
 
 If you need help starting a blog because you have no clue how any of this works, I am here. The 'unofficial' and 'closed' environment this blog emits is perhaps exactly what I wanted. Nothing too private, nothing too public – just right.
 
-Written on 27 Dec 2020.
+Written on 27 Dec 2020.<br>
 Photo by [Biel Morro](https://unsplash.com/@bielmorro) on [Unsplash](https://unsplash.com/photos/_l8ZdgJ9m7w).

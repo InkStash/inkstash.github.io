@@ -4,3 +4,8 @@ languageCode = 'en-us'
 title = 'InkStash'
 copyright = 'InkStash 2023'
 theme = 'dear-diary'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

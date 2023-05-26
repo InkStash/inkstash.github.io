@@ -1,4 +1,6 @@
 baseURL = 'https://inkstash.github.io/'
+DefaultContentLanguage = 'en'
 languageCode = 'en-us'
-title = 'Ink Stash'
+title = 'InkStash'
+copyright = 'InkStash 2023'
 theme = 'dear-diary'

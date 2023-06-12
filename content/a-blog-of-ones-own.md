@@ -5,6 +5,11 @@ tags: [""]
 categories: ""
 featured_image: "https://i.ibb.co/W2FG3WG/biel-morro-l8-Zdg-J9m7w-unsplash.jpg"
 title: "A Blog of One's Own"
+written_on: "27 Dec 2020"
+fi_author: "Biel Morro"
+fi_source: "Unsplash"
+fi_author_link: "https://unsplash.com/@bielmorro"
+fi_source_link: "https://unsplash.com/photos/_l8ZdgJ9m7w"
 ---
 
 I presume that anyone who has ever had a thought has wanted someone to share it with. It seems like such a natural thing, but then you don't want everyone to know about it either. I don't want to have to think things through too much, and oftentimes I just want to speak, even if no one's listening.
@@ -22,6 +27,3 @@ I could just drop a link on Facebook, let anyone with enough time to waste a por
 If you're one of my few curious readers, a number I expect to be able to count on one hand, I don't have a lot to offer. This is going to be a platform for me to publish these ramblings I have, for the most part. I initially wanted to publish my creative works here, but I've since overturned that thought. It's not very convenient. You may find interesting stories about people in my life, perhaps with a pseudonym, but that's something I'll have to discover in future days.
 
 If you need help starting a blog because you have no clue how any of this works, I am here. The 'unofficial' and 'closed' environment this blog emits is perhaps exactly what I wanted. Nothing too private, nothing too public – just right.
-
-Written on 27 Dec 2020.<br>
-Photo by [Biel Morro](https://unsplash.com/@bielmorro) on [Unsplash](https://unsplash.com/photos/_l8ZdgJ9m7w).

@@ -1,6 +1,0 @@
-[submodule "themes/dear-diary"]
-	path = themes/dear-diary
-	url = https://github.com/InkStash/dear-diary.git
-[submodule "themes/diary"]
-	path = themes/diary
-	url = https://github.com/InkStash/dear-diary.git

@@ -1,8 +1,8 @@
 ---
 date: 2023-05-26T12:35:34+06:00
-description: "asd"
-tags: [""]
-categories: ""
+description: "I presume that anyone who has ever had a thought has wanted someone to share it with. It seems like such a natural thing, but then you don't want everyone to know about it either. I don't want to have to think things through too much, and oftentimes I just want to speak, even if no one's listening."
+tags: ["thoughts"]
+categories: thoughts
 featured_image: "https://i.ibb.co/W2FG3WG/biel-morro-l8-Zdg-J9m7w-unsplash.jpg"
 title: "A Blog of One's Own"
 written_on: "27 Dec 2020"
